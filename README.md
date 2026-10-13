@@ -11,9 +11,12 @@ Repository tugas kelompok mata kuliah *Sistem Operasi* (Modul TI-3D & K-1D). Pro
 
 
 ## Struktur Berkas Repository
-| `stock_rpc_server.py`    | Server stok backend berbasis XML-RPC      | HTTP / Port `8001`       
-| `order_rpc_client.py`    | Client pemesanan untuk menguji XML-RPC    | XML-RPC Client           
+| `stock_rpc_server.py`    | Server stok backend berbasis XML-RPC      | HTTP / Port `8001`
+
+| `order_rpc_client.py`    | Client pemesanan untuk menguji XML-RPC    | XML-RPC Client  
+
 | `stock_socket_server.py` | Server stok backend berbasis Socket TCP   | TCP Stream / Port `8002` 
+
 | `order_socket_client.py` | Client pemesanan untuk menguji Socket TCP | JSON over TCP            
 
 
