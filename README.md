@@ -1,4 +1,4 @@
-#### Implementasi Inter-Process Communication (IPC) & Sistem Operasi
+# Implementasi Inter-Process Communication (IPC) & Sistem Operasi
 
 Repository tugas kelompok mata kuliah *Sistem Operasi* (Modul TI-3D & K-1D).
 Proyek ini mendemonstrasikan komunikasi antar-proses (*Inter-Process Communication* / IPC) menggunakan dua pendekatan berbeda—*XML-RPC* dan *Socket TCP*—yang terhubung dengan database lokal SQLite pada lingkungan Ubuntu Server 26.04.
